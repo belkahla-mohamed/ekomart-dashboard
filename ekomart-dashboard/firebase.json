@@ -1,11 +1,13 @@
 {
-  "hosting": {
-    "target": "dashboard-site",
-    "public": "ekomart-dashboard",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
-  }
+  "hosting": [
+    {
+      "target": "dashboard-site",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  ]
 }
