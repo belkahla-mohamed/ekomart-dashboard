@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "dashboard-site",
     "public": "ekomart-dashboard",
     "ignore": [
       "firebase.json",

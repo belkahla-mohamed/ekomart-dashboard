@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "ekomart-html"
-  }
+  },
+  "targets": {
+    "ekomart-html": {
+      "hosting": {
+        "dashboard-site": [
+          "ekomart-dashboard"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
